@@ -1,1 +1,2 @@
 New file created on remote repo
+file 7 on local repository
